@@ -4,5 +4,5 @@ Repository created just to show how JEST works using simple samples and mocked d
 
 ### Unit Test JEST responsabilites and operations ###
 
-* centralize all user context in a single point
+* centralize all user contexts in a single point
 * create and handle tests
