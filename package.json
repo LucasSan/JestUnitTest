@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LucasSan/UnitTest_Jest.git"
+    "url": "git+https://github.com/LucasSan/JestUnitTest.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LucasSan/UnitTest_Jest/issues"
+    "url": "https://github.com/LucasSan/JestUnitTest/issues"
   },
-  "homepage": "https://github.com/LucasSan/UnitTest_Jest#readme",
+  "homepage": "https://github.com/LucasSan/JestUnitTest#readme",
   "dependencies": {
     "babel-eslint": "^8.2.1",
     "body-parser": "^1.18.2",
