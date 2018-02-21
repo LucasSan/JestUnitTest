@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "nodemon src/server",
-    "test": "NODE_ENV=test jest --config=jest.config.json --coverage"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
